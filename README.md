@@ -1,3 +1,3 @@
 # Hello-World
 this is my first
-//color 115//
+//set color to 115
